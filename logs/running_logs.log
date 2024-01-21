@@ -78,3 +78,57 @@ x==========x]
 [2024-01-22 01:20:03,491: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-01-22 02:34:23,496: WARNING: module_wrapper: From D:\project\chicken_project2\venv\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-22 02:36:27,511: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-22 02:36:27,519: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-22 02:36:27,519: INFO: common: created directory at: artifacts]
+[2024-01-22 02:36:27,527: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-01-22 02:36:27,981: WARNING: module_wrapper: From D:\project\chicken_project2\venv\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-22 02:36:28,462: WARNING: module_wrapper: From D:\project\chicken_project2\venv\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-22 02:36:53,154: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-22 03:17:40,588: WARNING: module_wrapper: From D:\project\chicken_project2\venv\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-22 03:17:42,572: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-22 03:17:42,572: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-22 03:17:42,572: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-22 03:17:42,572: INFO: common: created directory at: artifacts]
+[2024-01-22 03:17:42,572: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-01-22 03:17:42,572: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2024-01-22 03:17:43,010: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-22 03:17:43,010: INFO: main: *******************]
+[2024-01-22 03:17:43,012: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-22 03:17:43,012: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-22 03:17:43,012: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-22 03:17:43,012: INFO: common: created directory at: artifacts]
+[2024-01-22 03:17:43,012: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-01-22 03:17:43,240: WARNING: module_wrapper: From D:\project\chicken_project2\venv\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-22 03:17:43,353: WARNING: module_wrapper: From D:\project\chicken_project2\venv\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-22 03:17:44,109: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-22 03:17:44,409: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-01-22 03:35:31,622: WARNING: module_wrapper: From D:\project\chicken_project2\venv\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-22 03:35:32,000: WARNING: module_wrapper: From D:\project\chicken_project2\venv\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-22 03:35:34,585: INFO: steage_02_prepare_base_model: *******************]
+[2024-01-22 03:35:34,585: INFO: steage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-22 03:35:34,590: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-22 03:35:34,590: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-22 03:35:34,590: INFO: common: created directory at: artifacts]
+[2024-01-22 03:35:34,590: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-01-22 03:35:35,220: WARNING: module_wrapper: From D:\project\chicken_project2\venv\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-22 03:35:35,492: WARNING: module_wrapper: From D:\project\chicken_project2\venv\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-22 03:35:36,636: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-22 03:35:37,114: INFO: steage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
